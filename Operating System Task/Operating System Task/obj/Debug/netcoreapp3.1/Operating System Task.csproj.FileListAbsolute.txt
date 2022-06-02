@@ -1,0 +1,14 @@
+C:\Users\All In One\Desktop\Operating System Task\Operating System Task\bin\Debug\netcoreapp3.1\Operating System Task.exe
+C:\Users\All In One\Desktop\Operating System Task\Operating System Task\bin\Debug\netcoreapp3.1\Operating System Task.deps.json
+C:\Users\All In One\Desktop\Operating System Task\Operating System Task\bin\Debug\netcoreapp3.1\Operating System Task.runtimeconfig.json
+C:\Users\All In One\Desktop\Operating System Task\Operating System Task\bin\Debug\netcoreapp3.1\Operating System Task.runtimeconfig.dev.json
+C:\Users\All In One\Desktop\Operating System Task\Operating System Task\bin\Debug\netcoreapp3.1\Operating System Task.dll
+C:\Users\All In One\Desktop\Operating System Task\Operating System Task\bin\Debug\netcoreapp3.1\Operating System Task.pdb
+C:\Users\All In One\Desktop\Operating System Task\Operating System Task\obj\Debug\netcoreapp3.1\Operating System Task.csproj.AssemblyReference.cache
+C:\Users\All In One\Desktop\Operating System Task\Operating System Task\obj\Debug\netcoreapp3.1\Operating System Task.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\All In One\Desktop\Operating System Task\Operating System Task\obj\Debug\netcoreapp3.1\Operating System Task.AssemblyInfoInputs.cache
+C:\Users\All In One\Desktop\Operating System Task\Operating System Task\obj\Debug\netcoreapp3.1\Operating System Task.AssemblyInfo.cs
+C:\Users\All In One\Desktop\Operating System Task\Operating System Task\obj\Debug\netcoreapp3.1\Operating System Task.csproj.CoreCompileInputs.cache
+C:\Users\All In One\Desktop\Operating System Task\Operating System Task\obj\Debug\netcoreapp3.1\Operating System Task.dll
+C:\Users\All In One\Desktop\Operating System Task\Operating System Task\obj\Debug\netcoreapp3.1\Operating System Task.pdb
+C:\Users\All In One\Desktop\Operating System Task\Operating System Task\obj\Debug\netcoreapp3.1\Operating System Task.genruntimeconfig.cache
